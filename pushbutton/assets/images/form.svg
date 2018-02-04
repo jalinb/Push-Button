@@ -1,0 +1,19 @@
+<svg id="fancy-form" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 368 450" style="enable-background:new 0 0 368 450;" xml:space="preserve">
+<style type="text/css">
+	.form-blue{fill:#5DBED9;}
+	.form-red{fill:url(#form-gradient);}
+</style>
+<g>
+	<path class="form-blue" d="M272.5,450c-2.6,0-5.3-0.2-7.9-0.6L63.3,420.5c-28.6-4.1-50.2-28-51.3-56.8L0.1,64.3c-0.7-17,5.4-33,17.2-45.3
+		C28.9,6.9,45.1,0,61.8,0c2,0,4.1,0.1,6.2,0.3l258.5,25.4c12.4,1.2,23.6,7.3,31.4,17c7.8,9.7,11.2,21.9,9.7,34.3L326.9,402
+		C323.5,429.3,300.1,450,272.5,450z"/>
+	
+		<radialGradient id="form-gradient" cx="183.9981" cy="225.4359" r="195.8259" gradientTransform="matrix(1 0 0 0.9981 0 0)" gradientUnits="userSpaceOnUse">
+		<stop  offset="3.806090e-04" style="stop-color:#B52103"/>
+		<stop  offset="1" style="stop-color:#991D02"/>
+	</radialGradient>
+	<path class="form-red" d="M266,439.6L64.8,410.6c-23.8-3.4-41.8-23.3-42.8-47.4L10,63.9C8.8,32.4,35.7,7.1,67,10.2l258.5,25.4
+		c20.1,2,34.7,20.1,32.2,40.2L317,400.7C313.9,425.6,290.9,443.1,266,439.6z"/>
+</g>
+</svg>
